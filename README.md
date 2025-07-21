@@ -1,8 +1,20 @@
-# 
+## 👋 About Me
 
+Hey there! I'm **Santhosh G**, a curious and motivated student currently pursuing my **Bachelor of Computer Applications (BCA)**. I enjoy diving deep into the fundamentals of computer science and building a strong foundation in programming, algorithms, and systems.
 
+💻 I’m passionate about:
+- Problem-solving and competitive programming  
+- Learning how computers work — from hardware to software  
+- Exploring areas like scripting, automation, and systems programming
 
+🌱 Currently learning
+- Python for scripting and automation
+- Git & GitHub for version control
 
+🔍 Exploring:
+- Linux systems and basic shell scripting  
+- Fundamentals of cybersecurity and ethical hacking (Intermediate level)  
+- Tools and workflows used by real-world developers
 
 
 
@@ -19,4 +31,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=gasanthosh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+📫  Reach Me:
+- 📱 LinkedIn: [LinkedIn](https://www.linkedin.com/in/santhoshga)  
+- 📧 Email: gasanthosh261@gmail.com
+
+  
