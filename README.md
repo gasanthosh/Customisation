@@ -32,8 +32,11 @@ Hey there! I'm **Santhosh G**, a curious and motivated student currently pursuin
 [![](https://visitcount.itsvg.in/api?id=gasanthosh&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-📫  Reach Me:
-- 📱 LinkedIn: [LinkedIn](https://www.linkedin.com/in/santhoshga)  
-- 📧 Email: gasanthosh261@gmail.com
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/santhoshga)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/prince_r___)  
+[![Medium](https://img.shields.io/badge/Medium-black?logo=medium&style=for-the-badge)](https://medium.com/@prince_r_)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:gasanthosh261@gmail.com)
 
   
